@@ -32,7 +32,7 @@ Mpox continues to spread across 17 affected countries with 175,409 confirmed cas
 
 Prioritize High Burden Countries and maintain the health system of other countries by:
 
-1) Reallocation and urgent expansion of surveillance sites: scaling to 500-700 sites could raise early detection by 30 -50%
+1) Reallocation and urgent expansion of surveillance sites: scaling to 500-700 sites could raise early detection by 40 -96%
 
 2) Strengthen diagnostic capacity: Expanding to 200- 500 labs would reduce the load to just 74 cases per lab, cutting diagnostic delays and enabling faster contact tracing.
 
